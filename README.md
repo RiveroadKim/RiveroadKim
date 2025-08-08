@@ -35,5 +35,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiveroadKim&layout=compact&bg_color=60,96fbc4,f9f586&title_color=ff9966&text_color=ff9966"
         />
     </div> 
+    <div class="profile-section">
+        <a href="https://solved.ac/riveroad" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=riveroad" alt="Solved.ac 프로필" /></a>
+    </div>
 </div>
     
